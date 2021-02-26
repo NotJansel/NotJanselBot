@@ -1,0 +1,10 @@
+module.exports = {
+    name: 'name',
+    aliases: ['p'],
+    category: 'folder',
+    utilisation: 'usage',
+
+    execute(client, message, args) {
+       
+    },
+};
